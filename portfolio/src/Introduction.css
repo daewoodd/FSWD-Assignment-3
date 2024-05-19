@@ -1,0 +1,37 @@
+.introduction-section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1a1a2e;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 5px solid #007bff;
+}
+
+.introduction-section h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.introduction-section p {
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .introduction-section h2 {
+    font-size: 2rem;
+  }
+
+  .introduction-section p {
+    font-size: 1rem;
+  }
+}

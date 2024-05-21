@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, Nav, Container, Image } from 'react-bootstrap';
-import profileImage from './profile.jpg';
+import profileImage from './profile.jpeg';
 import './Header.css';
 
 const Navigation = () => {
@@ -9,7 +9,7 @@ const Navigation = () => {
       <Container>
         <Navbar.Brand href="#home" className="d-flex align-items-center">
           <Image src={profileImage} roundedCircle width="45" height="45" />
-          <span className="ml-2">&emsp;M Faizan</span>
+          <span className="ml-2">&emsp;Taimur Mahmood</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

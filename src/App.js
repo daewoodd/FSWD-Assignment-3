@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import Header from './Header';
-import Introduction from './Introduction';
-import Skills from './Skills';
-import Projects from './Projects';
-import Contact from './Contact';
-import Footer from './Footer';
+import Header from './Components/Header';
+import Introduction from './Components/Introduction';
+import Skills from './Components/Skills';
+import Projects from './Components/Projects';
+import Contact from './Components/Contact';
+import Footer from './Components/Footer';
 
 function App() {
   return (

@@ -4,7 +4,7 @@ To get started with this project, follow the steps below:
 
 Clone the repository:
 
-git clone https://github.com/chfaizan621/my-portfolio.git
+git clone https://github.com/daewoodd/FSWD-Assignment-3
 
 Navigate to the project directory:
 

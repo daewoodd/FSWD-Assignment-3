@@ -3,8 +3,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #b1e6bd;
-  color: #b1e6bd;
+  background: #566fc1;
+  color: #082a5b;
   padding: 20px;
 }
 
@@ -12,7 +12,7 @@
   width: 150px;
   height: 150px;
   object-fit: cover;
-  border: 5px solid #e68f0c;
+  border: 5px solid #000000;
 }
 
 .introduction-section h2 {

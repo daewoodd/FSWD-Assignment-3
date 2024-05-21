@@ -1,5 +1,5 @@
 .navbar-custom {
-  background-color: #343a40; /* Dark background color */
+  background-color: #4d6acb; /* Dark background color */
 }
 
 .navbar-custom .navbar-brand,
@@ -12,7 +12,12 @@
 }
 
 .navbar-custom .navbar-toggler {
-  border-color: rgba(255, 255, 255, 0.1); /* Light border color for toggle button */
+  border-color: rgba(
+    255,
+    255,
+    255,
+    0.1
+  ); /* Light border color for toggle button */
 }
 
 .navbar-custom .navbar-toggler-icon {
@@ -27,6 +32,6 @@
 
 @media (max-width: 767px) {
   .navbar-custom .navbar-nav .nav-link {
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
   }
 }
